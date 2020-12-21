@@ -19,6 +19,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.HTML.L2", "ITMO.HTML.L
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.HTML.L3", "ITMO.HTML.L3", "{A090E6C6-5489-4FDA-AD6D-78BDE93B6DC3}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.HTML.L3T2_ex4.html = ITMO.HTML.L3T2_ex4.html
+		..\Материалы\ITMO.HTML.L3T4_about_buttons.html = ..\Материалы\ITMO.HTML.L3T4_about_buttons.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.HTML.L4", "ITMO.HTML.L4", "{D07E4939-EEBF-4976-91B3-116F5B3C0604}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.HTML.L4T1_2_3_ex5.html = ITMO.HTML.L4T1_2_3_ex5.html
+		..\Материалы\HTML\Lab_4\ITMO.HTML.L4T5_table.html = ..\Материалы\HTML\Lab_4\ITMO.HTML.L4T5_table.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
