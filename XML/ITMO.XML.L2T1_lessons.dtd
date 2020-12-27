@@ -1,0 +1,8 @@
+﻿<!ELEMENT lessons (lesson)>
+<!ELEMENT lesson (title, teacher, duration, time_period, grade)>
+<!ATTLIST lesson description CDATA "Заполни">
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT teacher (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT time_period (#PCDATA)>
+<!ELEMENT grade (#PCDATA)>

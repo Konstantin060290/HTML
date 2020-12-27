@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons>
+  <lesson id="1">
+    <title>Технологии программирования</title>
+    <teacher>Осипов Н.А.</teacher>
+    <duration>50 часов</duration>
+    <time_period>29.09.20...16.10.20</time_period>
+    <grade>Зачет</grade>
+  </lesson>
+  <lesson id="2">
+    <title>Программирование на C#</title>
+    <teacher>Осипов Н.А.</teacher>
+    <duration>50 часов</duration>
+    <time_period>19.10.20...06.11.20</time_period>
+    <grade>Зачет</grade>
+  </lesson>
+  <lesson id="3">
+    <title>Введение в базы данных</title>
+    <teacher>Осетрова И.С.</teacher>
+    <duration>30 часов</duration>
+    <time_period>09.11.20...20.11.20</time_period>
+    <grade>Зачет</grade>
+  </lesson>
+</lessons>

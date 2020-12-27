@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE library SYSTEM "D:\Coding\ITMO\5_XML\Labs\ITMO.XML_.L2T2.dtd">
+<library>
+
+  <book_catalog>
+    <book id="a1" year= "1926" issue="original">
+      <authors>
+        <author>Есенин С.А.</author>
+      </authors>
+      <title>Черный человек</title>
+      <publishing>Новый мир</publishing>
+      <annotation>
+        «Чёрный человек» — поэма Сергея Есенина. Впервые опубликована в журнале «Новый мир» в 1926 году.
+      </annotation>
+   </book>
+    <book id="a2" year= "1836" issue="original">
+      <authors>
+        <author>Пушкин А.С.</author>
+      </authors>
+      <title>Капитанская дочка</title>
+      <publishing>Правда</publishing>
+      <annotation>
+        «Капита́нская до́чка» — исторический роман Александра Пушкина, действие которого происходит во время восстания Емельяна Пугачёва.
+      </annotation> 
+    </book>
+  </book_catalog>
+  <author_catalog>
+    <author_book idref="a1"></author_book>
+    <author_book idref="a2"></author_book>
+  </author_catalog>
+  <sss>Источник - &internet;</sss>
+</library>

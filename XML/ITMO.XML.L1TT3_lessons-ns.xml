@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<myns:Scedule xmlns:myns="http://itmo.ru/xml/lessons">
+    <myns:lessons>
+    <myns:lesson id="1">
+      <title>Технологии программирования</title>
+      <teacher>Осипов Н.А.</teacher>
+      <duration>50 часов</duration>
+      <time_period>29.09.20...16.10.20</time_period>
+      <grade>Зачет</grade>
+      <myns:literature>Структуры данных и алгоритмы в Java. Р. Лафоре</myns:literature>
+    </myns:lesson>
+    <myns:lesson id="2">
+      <title>Программирование на C#</title>
+      <teacher>Осипов Н.А.</teacher>
+      <duration>50 часов</duration>
+      <time_period>19.10.20...06.11.20</time_period>
+      <grade>Зачет</grade>
+      <myns:literatue>Гради Буч</myns:literatue>
+    </myns:lesson>
+    <myns:lesson id="3">
+      <title>Введение в базы данных</title>
+      <teacher>Осетрова И.С.</teacher>
+      <duration>30 часов</duration>
+      <time_period>09.11.20...20.11.20</time_period>
+      <grade>Зачет</grade>
+      <myns:literature>Книги</myns:literature>
+    </myns:lesson>
+  </myns:lessons>
+</myns:Scedule>

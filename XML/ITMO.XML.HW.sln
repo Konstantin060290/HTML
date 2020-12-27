@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.XML.L1", "ITMO.XML.L1", "{7C1C2A0F-585F-4D92-9CAC-DB54E04B5EAF}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.XML.L1T1.xml = ITMO.XML.L1T1.xml
+		ITMO.XML.L1T2_T3_lessons.xml = ITMO.XML.L1T2_T3_lessons.xml
+		ITMO.XML.L1TT3_lessons-ns.xml = ITMO.XML.L1TT3_lessons-ns.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.XML.L2", "ITMO.XML.L2", "{06E83C1E-4095-4013-AD42-11925CE5194C}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.XML.L2T1_lessons.dtd = ITMO.XML.L2T1_lessons.dtd
+		ITMO.XML.L2T1_lessons.xml = ITMO.XML.L2T1_lessons.xml
+		ITMO.XML_.L2T2.dtd = ITMO.XML_.L2T2.dtd
+		ITMO.XML_.L2T2.xml = ITMO.XML_.L2T2.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.XML.L3", "ITMO.XML.L3", "{424B1B68-75CB-4979-92F7-4565D2B15D37}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.XML_.L3T1_lessons.xml = ITMO.XML_.L3T1_lessons.xml
+		ITMO.XML_.L3T1_schema.xsd = ITMO.XML_.L3T1_schema.xsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C5AD7DC-FD1B-4DF7-B1DB-6EEE372EB1B5}
+	EndGlobalSection
+EndGlobal
